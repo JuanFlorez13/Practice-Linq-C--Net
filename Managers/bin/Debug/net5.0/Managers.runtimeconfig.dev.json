@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Aprendiz - Pinturo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Aprendiz - Pinturo\\.nuget\\packages"
+    ]
+  }
+}
